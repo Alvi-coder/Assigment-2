@@ -1,0 +1,56 @@
+*{margin: 0px;
+padding: 0px;}
+body{
+    background-image: url(../img/b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px
+    
+}
+.container{
+    width: 650px;
+    background-color: #24242496; margin: 10% auto;
+}
+.login-section{
+    padding: 40px;
+}
+    
+.admin-logo{
+    width: 150px; margin: 0px auto; display: block;
+}
+.htag{
+    text-align: center;
+    font-size: 25px;
+    color: azure;
+    text-transform: uppercase;
+    padding: 10px
+}
+.f1{
+width: 98%;
+    margin: 5px;
+    padding: 5px;
+    height: 25px;
+    
+}
+.button{
+    margin: 0px auto;
+    display: block;
+    background-color: aqua;
+    color: black;
+    padding: 5px;
+    border: none;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+     -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+}
+.button:hover{
+    cursor: pointer;
+    box-shadow: 3px 2px 1px #ffffff
+}
+.A{
+    margin: 0px auto;
+    display: block;
+    color: azure;
+}

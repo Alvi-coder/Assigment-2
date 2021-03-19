@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../img/MountainBikes.jpg);
+    background-repeat: no-repeat; 
+}
+.container{
+    width: 650px;
+    background-color: #24242496; margin: 10% auto; 
+}
+.login-section{
+    padding: 50px;
+}
+.logo{
+    width: 150px;
+    margin: 0px auto;
+    display: block;
+}
+.text{
+text-align: center;
+    color: azure;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.fo{
+    width: 98%;
+    margin: 5px;
+    padding: 5px;
+    height: 25px;
+}
+.reset{
+    margin: 0px auto;
+    display: block;
+    background-color: aqua;
+    border: none;
+    padding: 5px;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+     -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+}
+.reset:hover{
+    cursor: pointer;
+    box-shadow: 3px 2px 1px #ffffff;
+}
+.A{
+    margin: 0px auto;
+    display: block;
+    color: azure;
+}
